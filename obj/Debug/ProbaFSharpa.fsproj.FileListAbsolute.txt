@@ -1,0 +1,8 @@
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\bin\Debug\ProbaFSharpa.exe.config
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\bin\Debug\ProbaFSharpa.XML
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\bin\Debug\ProbaFSharpa.exe
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\bin\Debug\ProbaFSharpa.pdb
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\bin\Debug\FSharp.Core.dll
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\bin\Debug\System.ValueTuple.dll
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\obj\Debug\ProbaFSharpa.exe
+C:\Users\filip\OneDrive\Documents\Visual Studio 2017\Projects\ProbaFSharpa\ProbaFSharpa\obj\Debug\ProbaFSharpa.pdb
